@@ -1,5 +1,5 @@
 export default {
-    extends: ['@commitlint/config-angulare'],
+    extends: ['@commitlint/config-angular'],
     rules: {
         'type-enum': [
             2,
