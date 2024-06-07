@@ -1,1 +1,1 @@
-npx --no -- comitlint --edit \$1
+npx --no -- comitlint --edit
