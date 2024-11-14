@@ -45,8 +45,6 @@ A Simple CI/CD for node-js project
 
 ## Installation
 
-[Look at the documentation.](./docs.md)
-
 ### Prerequisites
 
 List any prerequisites or dependencies required for the project.
@@ -60,7 +58,7 @@ List any prerequisites or dependencies required for the project.
 1. Clone the repository'
 
 ```git
-git clone https://github.com/yohemm/config.git
+git clone https://github.com/yohemm/config-CI-CD.git
 ```
 ---
 
@@ -111,6 +109,6 @@ This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org
 
 For questions or feedback, please reach out:
 
-- GitHub Issues: [Create an Issue](https://github.com/yohemm/config/issues)
+- GitHub Issues: [Create an Issue](https://github.com/yohemm/config-CI-CD/issues)
 
 ---
